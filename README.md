@@ -7,6 +7,7 @@ Julio César Rodríguez Figueroa
 ## Contents
 ### References
 ### Images
+### code examples
 
 ## References 
 
@@ -19,3 +20,9 @@ Julio César Rodríguez Figueroa
 ## Images
 
 ![Moneque](/Moneque.png)
+
+## code examples
+
+``` x = 1 ```
+``` y = 2 ```
+``` z = x + y ```
