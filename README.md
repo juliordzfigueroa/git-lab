@@ -8,6 +8,7 @@ Julio César Rodríguez Figueroa
 ### References
 ### Images
 ### code examples
+### lists
 
 ## References 
 
@@ -26,3 +27,9 @@ Julio César Rodríguez Figueroa
 ``` x = 1 ```
 ``` y = 2 ```
 ``` z = x + y ```
+
+## lists
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
